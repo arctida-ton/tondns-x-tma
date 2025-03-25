@@ -33,7 +33,7 @@ export const CreateCollectionPage: FC = () => {
 
   const ROYALTY_ADDRESS = isTestnet
     ? "0QASgfDPFbdLTVf_lXAqP_hdnBjEALIuJtHlMxvUmpNid8qx"
-    : "UQCDrgGaI6gWK-qlyw69xWZosurGxrpRgIgSkVsgahUtxZR0";
+    : "UQCjNf6y_RhVATipbgKpCBAa8h5z6mwIXv3oDY7UZRyv01Aj";
 
   const [loading, setLoading] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
